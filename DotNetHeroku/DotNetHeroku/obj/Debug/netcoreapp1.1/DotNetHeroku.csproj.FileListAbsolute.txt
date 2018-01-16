@@ -1,0 +1,9 @@
+C:\Users\biondo.EURIS\Documents\Visual Studio 2017\Projects\HerokuNetCore\DotNetHeroku\DotNetHeroku\bin\Debug\netcoreapp1.1\DotNetHeroku.deps.json
+C:\Users\biondo.EURIS\Documents\Visual Studio 2017\Projects\HerokuNetCore\DotNetHeroku\DotNetHeroku\bin\Debug\netcoreapp1.1\DotNetHeroku.runtimeconfig.json
+C:\Users\biondo.EURIS\Documents\Visual Studio 2017\Projects\HerokuNetCore\DotNetHeroku\DotNetHeroku\bin\Debug\netcoreapp1.1\DotNetHeroku.runtimeconfig.dev.json
+C:\Users\biondo.EURIS\Documents\Visual Studio 2017\Projects\HerokuNetCore\DotNetHeroku\DotNetHeroku\bin\Debug\netcoreapp1.1\DotNetHeroku.dll
+C:\Users\biondo.EURIS\Documents\Visual Studio 2017\Projects\HerokuNetCore\DotNetHeroku\DotNetHeroku\obj\Debug\netcoreapp1.1\DotNetHeroku.csprojResolveAssemblyReference.cache
+C:\Users\biondo.EURIS\Documents\Visual Studio 2017\Projects\HerokuNetCore\DotNetHeroku\DotNetHeroku\obj\Debug\netcoreapp1.1\DotNetHeroku.AssemblyInfo.cs
+C:\Users\biondo.EURIS\Documents\Visual Studio 2017\Projects\HerokuNetCore\DotNetHeroku\DotNetHeroku\bin\Debug\netcoreapp1.1\DotNetHeroku.pdb
+C:\Users\biondo.EURIS\Documents\Visual Studio 2017\Projects\HerokuNetCore\DotNetHeroku\DotNetHeroku\obj\Debug\netcoreapp1.1\DotNetHeroku.dll
+C:\Users\biondo.EURIS\Documents\Visual Studio 2017\Projects\HerokuNetCore\DotNetHeroku\DotNetHeroku\obj\Debug\netcoreapp1.1\DotNetHeroku.pdb
